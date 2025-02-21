@@ -9,3 +9,10 @@ else if (i == 3){
     console.log("Bronze Medal")
 }    
 }
+
+/*
+Output:
+Gold Medal
+Silver Medal
+Bronze Medal
+*/
